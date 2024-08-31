@@ -1,14 +1,17 @@
-import { Button } from "@/components/ui/button";
+import Navbar from '@/components/ui/Navbar/Navbar';
 
 function App() {
   return (
-    <div className="flex items-center justify-center min-h-screen bg-gray-100">
-      <h1 className="text-4xl font-bold text-blue-500 mb-4">
-        Tailwind CSS and Shadcn UI are working!
-      </h1>
-      <Button>
-        Shadcn UI Button
-      </Button>
+    <div className="min-h-screen bg-gray-100">
+      <Navbar />
+      <main className="p-8">
+        <h1 className="text-5xl font-bold text-center">Hospital Animal Dr. Cossia</h1>
+        <p className="text-center">
+          <b>
+              Servicio de urgencia 24 horas, los 365 días del año
+          </b>
+        </p>
+      </main>
     </div>
   );
 }
