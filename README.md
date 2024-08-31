@@ -1,8 +1,8 @@
-# React + Vite
+# Hospital Animal Dr. Cossia
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Website for the Hospital Animal Dr. Cossia. Made with React and TailwindCSS.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [TailwindCSS](https://tailwindcss.com/) for styling
+- [Shadcn/UI](https://ui.shadcn.com/) for components
+- [React](https://reactjs.org/) for the frontend
+- [React Router](https://reactrouter.com/) for the routing
